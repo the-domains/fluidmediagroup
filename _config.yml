@@ -1,0 +1,28 @@
+name: FluidMediaGroup
+favicon: null
+layout_spectrum: 0.6952017352450639
+typography_spectrum: 0.364978440804407
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.38157578418031335
+  lightness: 0.37102608126588166
+  saturation: 0.7083694643806666
+  rhythmicContrast: 0.9431554293259978
+purpose: []
